@@ -83,7 +83,7 @@ package nemo.display {
 		// EXTENSIONS
 		//--------------------------------------
 		
-    include '../../../Libs/extends/Debug.as';
+    include '../../extends/Debug.as';
 		
 	}
 	
